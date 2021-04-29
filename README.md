@@ -16,3 +16,7 @@ Automatic plantuml svg generation
 
 * Create a script file with the ".d" extension in that directory.
 * When you execute `./repeat.sh` every time you change the content of the ".d" file, the image will be generated.
+
+## Plantuml syntax
+
+[See This](https://plantuml.com/fr/activity-diagram-beta)
